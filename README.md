@@ -1,2 +1,2 @@
 # Financial-Analysis-of-a-company
-In this project, written in portuguese, I analysed accounting information of a private lab in Portugal, Avelab. For that several ratios were used and extracted from a balance spreadsheet, for example.
+Analyzed accounting data of a private lab in the laboratories and clinical analysis sector. Speculated the lent assets to public labs, in 2020, made revenue increase 62%, client debts 138% and DSO 48%
